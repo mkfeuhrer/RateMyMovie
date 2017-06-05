@@ -27,3 +27,4 @@ Basic Command line tool to fetch rating and details of movies and tv series !! W
   <li>Feel free to report issues , it just a simple web scrapper , multiple features can be added ( Along with proper GUI  interface)</li>
 <li>All Suggestions are welcome . </li>
 <li>Fork repository and Contribute. </li>
+</ul>
