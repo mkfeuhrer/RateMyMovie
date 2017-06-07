@@ -7,7 +7,7 @@ Basic Command line tool as well as GUI  tool to fetch rating and details of movi
   <li>Python 3.x</li>
   <li>Requests library</li>
   <li>BeautifulSoup library</li>
-  <li>Pyinstaller - for creating binary ELF format file for direct executing without running from terminal <a href="https://pythonhosted.org/PyInstaller/#installing-in-windows">Link</a></li>
+  <li>Optional - Pyinstaller - for creating binary ELF format file for direct executing without running from terminal <a href="https://pythonhosted.org/PyInstaller/#installing-in-windows">Link</a></li>
 </ul>
 
 <h1>Getting Started</h1>
@@ -21,7 +21,7 @@ Basic Command line tool as well as GUI  tool to fetch rating and details of movi
 <h1>How to Use</h1>
 <ul>
   <li> Open location of Downloaded folder - <b>Run python3 RateMyMovie.py</b> in the Terminal </li>
-  <li> Run python3 gui.py for executing the GUI Application or create binary ELF file for direct run by double click using pyinstaller</li>
+  <li> <b>Run python3 gui.py</b> for executing the "GUI Application" or create binary ELF file for direct run by double click using pyinstaller</li>
 <li>Now type in Movie or TV -Series ( try to type in the name as correct as possible else results might vary ) , You can use spaces as well !! </li>
 
 <h1>Contribute</h1>
