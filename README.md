@@ -30,5 +30,6 @@ Basic Command line tool as well as GUI  tool to fetch rating and details of movi
 <li>All Suggestions are welcome . </li>
 <li>Fork repository and Contribute. </li>
 </ul>
-<br>![alt tag](https://github.com/mkfeuhrer/RateMyMovie/blob/master/start.png)<br>
-<br>![alt tag](https://github.com/mkfeuhrer/RateMyMovie/blob/master/result.png)<br>
+<br>
+![Screenshot](https://github.com/mkfeuhrer/RateMyMovie/blob/master/start.png) <br>
+![Screenshot](https://github.com/mkfeuhrer/RateMyMovie/blob/master/result.png) <br>
