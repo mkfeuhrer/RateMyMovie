@@ -2,6 +2,8 @@
 
 Basic Command line tool as well as GUI  tool to fetch rating and details of movies and tv series !! Why search anywhere when you can get it in your lovable terminal . Find out the rating before watching :-) 
 
+Check out the Desktop App - <a href="https://github.com/mkfeuhrer/RateMyMovie-DesktopApp"> Link </a>
+
 <h1>Requirements</h1>
 <ul>
   <li>Python 3.x</li>
